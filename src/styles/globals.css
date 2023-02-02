@@ -105,3 +105,18 @@ a {
     color-scheme: dark;
   }
 }
+
+button {
+  padding: 1rem;
+  background-color: #ccc;
+  border-radius: 0.5rem;
+  border: none;
+  color: black;
+  font-size: 2rem;
+  cursor: pointer;
+  transition: all 0.5s;
+}
+
+button:hover {
+  background-color: #fff;
+}
